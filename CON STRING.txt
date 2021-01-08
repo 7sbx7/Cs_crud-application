@@ -1,0 +1,1 @@
+Data Source=DESKTOP-L35R0MK\MSSQLSERVER01;Initial Catalog=computerCaseShop;Integrated Security=True

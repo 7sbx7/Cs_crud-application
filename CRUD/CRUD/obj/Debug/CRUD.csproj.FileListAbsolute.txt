@@ -1,0 +1,10 @@
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.CRUD.resources
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\sebas\Desktop\projekt bazy\CRUD\CRUD\obj\Debug\CRUD.pdb
